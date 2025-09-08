@@ -1,13 +1,16 @@
-streamlit
-yfinance
-pandas
-numpy
-matplotlib
-plotly
-PyPortfolioOpt
-requests
-scipy
-PyPortfolioOpt
+streamlit==1.32.2
+yfinance==0.2.38
+pandas==2.2.2
+numpy==1.26.4
+matplotlib==3.8.4
+plotly==5.22.0
+PyPortfolioOpt==1.5.6
+requests==2.31.0
+scipy==1.11.4
+scikit-learn==1.4.2
+cvxpy==1.4.1
+
+
 
 
 
