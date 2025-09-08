@@ -1,0 +1,11 @@
+streamlit
+yfinance
+pandas
+numpy
+matplotlib
+plotly
+PyPortfolioOpt
+requests
+scipy
+
+
